@@ -1,2 +1,2 @@
-# improved-todo
-Third attempt of my todo thingy. This time using php.
+# octo-disco
+Like my player count bot but a rest api.
